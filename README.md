@@ -5,8 +5,8 @@ I'm a passionate web developer with expertise in a variety of technologies. My p
 ## Skills
 
 - **Frontend**: Vue.js, React.js
-- **Backend**: Node.js, Express.js, Laravel PHP
-- **Database**: MySQL, MongoDB
+- **Backend**: Node.js, Express.js, Nest.js Laravel PHP
+- **Database**: MySQL, PostgreSQL MongoDB
 - **Languages**: JavaScript, TypeScript, PHP
 - **Other Technologies**: HTML5, CSS3, Sass, Bootstrap, Tailwind
 
