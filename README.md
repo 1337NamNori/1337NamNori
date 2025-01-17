@@ -14,6 +14,9 @@ I'm a passionate web developer with expertise in a variety of technologies. My p
 
 I have a strong affinity for learning new technologies and keeping up with the latest trends in web development. I enjoy solving complex problems and implementing innovative solutions. Besides coding, I also have a knack for writing, and I frequently contribute to tech blogs to share my insights and experiences with the community.
 
+## Daily.dev card
+<a href="https://app.daily.dev/namdoan"><img src="https://api.daily.dev/devcards/v2/QgfJZY4pr30mmRygAR5oO.png?type=default&r=hru" width="356" alt="Đoàn Trọng Nam's Dev Card"/></a>
+
 ## Let's Connect!
 
 I'm always open to collaboration and new opportunities. Feel free to reach out to me on [LinkedIn](http://linkedin.com/in/nam-doan-409b47187) to discuss anything tech-related or just to say hi!
